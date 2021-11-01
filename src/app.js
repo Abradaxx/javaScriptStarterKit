@@ -43,8 +43,7 @@ for(let i=0;i<konutKredileri.length;i++){
 console.log("<li>"+konutKredileri[i]+"</li>")// </li> amacımız li yi burada kapatmak o yüzden / koyuyoruz yoksa li açık kalır
 }
 console.log("</ul")
-
-
+console.log("Deneme")
 
 
 
